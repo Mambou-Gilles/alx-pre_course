@@ -7,3 +7,4 @@ git checkout master
 git checkout -b  update_script #to create a branch
 git clone <repo>
 rm -r js
+git pull
